@@ -1,0 +1,51 @@
+.cont {
+
+    margin: 200px auto;
+    border: 2px solid black;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+
+
+}
+
+#inpu {
+    height: 30px;
+
+}
+
+.a {
+    min-width: 280px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 0px;
+
+
+}
+
+#ul {
+    list-style: none;
+    padding: 0;
+}
+
+#ul li {
+    /* display: inline-block; */
+    /* margin-right: 10px; */
+}
+
+.btnGaps {
+    margin: 4px 20px;
+}
+
+.line {
+
+    height: 2px;
+    background-color: black;
+    margin: 10px 0px;
+}
